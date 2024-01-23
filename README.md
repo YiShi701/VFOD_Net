@@ -2,7 +2,7 @@
 
 # ET-VFOD Dataset
 The training_set of ET-VFOD is now available by Baidu Netdisk with link：https://pan.baidu.com/s/1NUbgWwgyMJe5xWUW2WJ0ZA. 
-Password：jvim 
+Password：jvim .
 The validation_set and testing_set of ET-VFOD will be published.
 
 # The code
