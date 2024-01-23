@@ -11,5 +11,4 @@ The code of VFOD-Net is availabel by https://github.com/YiShi701/VFOD_Net/blob/m
 Unzip the project and install [requirements.txt] in a Python>=3.7.0 environment, including PyTorch>=1.7. More details are refer to https://github.com/ultralytics/yolov5
 
 # Acknowledgements
-https://github.com/ultralytics/yolov5
-https://github.com/YiShi701/Fixated-object-detection
+https://github.com/ultralytics/yolov5 and https://github.com/YiShi701/Fixated-object-detection
