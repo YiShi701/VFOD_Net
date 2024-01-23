@@ -5,3 +5,4 @@ The trainset of ET-VFOD is now available by Baidu Netdisk with link：https://pa
 Password：jvim 
 
 # The code
+https://github.com/YiShi701/VFOD_Net/blob/main/VFOD_Net.zip
